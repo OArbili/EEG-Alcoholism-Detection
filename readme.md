@@ -2,6 +2,8 @@
 
 This repository provides a robust EEG classification algorithm for detecting Alcohol Use Disorder (AUD). By transforming the data into multiple representations—temporal features, frequency-domain signals, and image-based views—the approach trains diverse models (RNN, CNN, and fully connected layers) and merges them in a final ensemble. Subject-based cross-validation is used to avoid data leakage, ensuring reliable performance estimates. The resulting pipeline demonstrates high classification accuracy on a publicly available EEG dataset, surpassing baseline methods.
 
+https://ieeexplore.ieee.org/document/10140181
+
 ## Key Features
 
 - **Multimodal Data Processing**  
